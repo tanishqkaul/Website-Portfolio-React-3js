@@ -24,8 +24,8 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
-          <p className="text-white text-[18px] font-bold cursor-pointer flex">
-            Geng &nbsp;
+          <p className="text-white text-[18px] font-bold cursor-pointer flex pt-1">
+            Ecell 
             <span className="sm:block hidden"></span>
           </p>
         </Link>

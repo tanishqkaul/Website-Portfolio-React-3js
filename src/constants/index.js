@@ -29,25 +29,33 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "Initiatives",
   },
   {
     id: "contact",
     title: "Contact",
   },
+  {
+    id: "archives",
+    title: "Archives",
+  },
+  {
+    id: "team",
+    title: "Team",
+  }
 ];
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Resources",
     icon: web,
   },
   {
-    title: "Open Source Developer",
+    title: " Network",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Skills",
     icon: backend,
   },
   {

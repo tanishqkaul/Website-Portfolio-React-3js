@@ -39,17 +39,16 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview</h2>
+        <p className={styles.sectionSubText}>Ecell Navi Mumbai</p>
+        <h2 className={styles.sectionHeadText}> Our vision </h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm currently working as a Developer for Frontend and Backend that
-        specialize in A.I. (Artificial Intelligence) and M.L. (Machine
-        Learning).
+       We're on a mission to empower student entrepreneurs, transforming them into job creators. Picture this: a college community buzzing with innovative ideas, like a beehive of creativity! We're here to nurture those ideas into groundbreaking business models, making our campus the epicenter of innovation.
+      Imagine a world where every student is a potential game-changer, and we're the catalyst sparking this entrepreneurial revolution! This is an exciting journey, where dreams take flight like a rocket into the cosmos of possibilities! 🌌💫
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
